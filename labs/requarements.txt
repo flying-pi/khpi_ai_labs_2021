@@ -1,0 +1,6 @@
+pandas==1.0.5
+scikit-learn==0.23.1
+pydevd-pycharm~=201.7846.76
+ipython
+jupyterlab
+plotly==4.12.0
